@@ -1,2 +1,4 @@
-b2c436c (HEAD -> main, origin/main, origin/HEAD) Completed Task 1.1 and fixed CheckStyle issues
+0f10f37 (HEAD -> main, origin/main, origin/HEAD) Progress on first part of task 2
+741af57 Completed Task 1.2 and created git log
+b2c436c Completed Task 1.1 and fixed CheckStyle issues
 6bca948 Initial commit
