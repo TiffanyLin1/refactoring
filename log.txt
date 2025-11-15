@@ -1,4 +1,6 @@
-0f10f37 (HEAD -> main, origin/main, origin/HEAD) Progress on first part of task 2
+5c74a15 (HEAD -> main, origin/main, origin/HEAD) Completed task 2.2
+d6cfcae Completed task 2.1
+0f10f37 Progress on first part of task 2
 741af57 Completed Task 1.2 and created git log
 b2c436c Completed Task 1.1 and fixed CheckStyle issues
 6bca948 Initial commit
